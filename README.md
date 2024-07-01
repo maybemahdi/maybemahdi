@@ -6,7 +6,7 @@
 - 🌱 I’m Interested to work with React.JS
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: chat.mahdihasan@gmail.com
-- ⚡ Fun fact: I'm currently learning Computer Science
+- ⚡ Fun fact: I'm currently studying Computer Science
 
 <a href="https://www.github.com/maybemahdi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maybemahdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
