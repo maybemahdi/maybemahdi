@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/maybemahdi">
+<a target="_blank" href="https://linkedin.com/in/maybemahdi">
 <img src="https://i.ibb.co/Qj3grZc/github-banner.png" />
 </a>
 
