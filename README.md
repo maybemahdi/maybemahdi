@@ -1,12 +1,8 @@
-<a href="https://linkedin.com/in/maybemahdi" target="_blank">
-<img src="https://i.ibb.co/Qj3grZc/github-banner.png" />
-</a>
-
-<h4>A Full-Stack Developer | MERN Stack</h4>
+<h3>A Full-Stack Developer | MERN Stack</h3>
 
 ## :eyes: Overview
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work with React.JS
+- 🔭 I’m currently working on MERN Projects
+- 🌱 I’m Interested to work with React.JS and Next.JS
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: chat.mahdihasan@gmail.com
 - ⚡ Fun fact: I'm currently studying Computer Science
