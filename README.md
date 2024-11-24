@@ -1,6 +1,7 @@
 <h3>A Full-Stack Developer | MERN Stack</h3>
 
 ## :eyes: Overview
+
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m Interested to work with React.JS and Next.JS
 - 💬 Ask me about Technology & Finance
@@ -11,14 +12,54 @@
 src="https://img.shields.io/github/followers/maybemahdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left"> <a href="https://www.linkedin.com/in/maybemahdi/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"></a></p>   
+"></a></p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="express" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/640px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
+</a>
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
+ </a>
+ </p>
 
-<h3 align="left">Familiar Tech & Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a></p>
-
+<h3 align="left">Library | Framework | Tech & Tools:</h3>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodeJS" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://mongoosejs.com/docs/guide.html" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" alt="mongoose" width="40" height="40"/>
+</a>
+<a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co.com/Vw55PrD/img-icons8.png" alt="prisma" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="github" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma" width="40" height="40"/>
+</a>
+</p>
 
 <h3>My GitHub Stats:</h3>
 
