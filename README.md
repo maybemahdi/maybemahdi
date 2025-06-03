@@ -1,4 +1,4 @@
-<h3>A Full-Stack Developer | MERN Stack</h3>
+<h3>A Full-Stack Developer</h3>
 
 ## :eyes: Overview
 
