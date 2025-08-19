@@ -3,7 +3,7 @@
 ## :eyes: Overview
 
 - 🔭 I’m currently working on FULL-STACK Projects
-- 🌱 I’m Interested in working with Node.JS
+- 🌱 I’m Interested in working with AI/ML
 - 💬 Ask me about Technology
 - 📫 How to reach me: chat.mahdihasan@gmail.com
 
