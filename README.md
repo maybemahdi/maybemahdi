@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/maybemahdi?logo=github&style=for-th
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodeJS" width="40" height="40"/>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/37/1/nodejs-logo-png_seeklogo-373130.png" alt="nodeJS" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="express" width="40" height="40"/>
 </a>
